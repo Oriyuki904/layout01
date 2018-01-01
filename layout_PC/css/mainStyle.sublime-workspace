@@ -1,0 +1,388 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"so",
+				"songName"
+			],
+			[
+				"g",
+				"getElementById"
+			],
+			[
+				"goi",
+				"Going"
+			],
+			[
+				"sc",
+				"scoops"
+			],
+			[
+				"can",
+				"cans-1"
+			],
+			[
+				"b",
+				"br"
+			],
+			[
+				"t",
+				"text-align"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"p",
+				"padding-left"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"m",
+				"margin-left"
+			],
+			[
+				"a",
+				"text-align"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"fonts",
+				"font-size"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"tab",
+				"table-row"
+			],
+			[
+				"table",
+				"table"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"l",
+				"link\tTag"
+			],
+			[
+				"s",
+				"section\tTag"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"i",
+				"inside"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"d",
+				"Date"
+			],
+			[
+				"v",
+				"vorbis"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"C",
+				"Coffee"
+			],
+			[
+				"im",
+				"images"
+			],
+			[
+				"border-s",
+				"border-spacing"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"f",
+				"float"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Volumes/DATA/layout_PC/img/24hdown01.svg",
+		"/Users/SandySung/Desktop/Head-First-HTML5-master/chapter6/sales.json",
+		"/Users/SandySung/Desktop/sweet-modal-1.3.3/bower.json",
+		"/Users/SandySung/Sandy/Webille Tunes.html",
+		"/Users/SandySung/Sandy/playlist.css",
+		"/Users/SandySung/Sandy/playlist_store.js",
+		"/Users/SandySung/Sandy/playlist.js",
+		"/Users/SandySung/Desktop/Head-First-HTML5-master/chapter3/playlist.js",
+		"/Users/SandySung/Desktop/TEST/test.html",
+		"/Users/SandySung/Desktop/123.html",
+		"/Users/SandySung/Desktop/My first javaScript.html",
+		"/Users/SandySung/Desktop/Head-First-HTML5-master/chapter1/99energy.html",
+		"/Users/SandySung/Desktop/hfhtmlcss/chapter14/starbuzz/styledform.css",
+		"/Users/SandySung/Desktop/hfhtmlcss/chapter14/starbuzz/styledform.html",
+		"/Users/SandySung/Desktop/Sandy/sandydesign.css",
+		"/Users/SandySung/Desktop/hfhtmlcss/chapter14/contest/test.html",
+		"/Users/SandySung/Desktop/Sandy/contact.html",
+		"/Users/SandySung/Desktop/Sandy/artwork.html",
+		"/Users/SandySung/Desktop/Sandy/index.html",
+		"/Users/SandySung/Desktop/Sandy/connect.html",
+		"/Users/SandySung/Desktop/Sandy/html/Vince Camuto.html",
+		"/Users/SandySung/Desktop/Sandy/html/VERSACE Eros.html",
+		"/Users/SandySung/Desktop/Sandy/html/Paris Hiltion.html",
+		"/Users/SandySung/Desktop/Sandy/html/Missoni EDT.html",
+		"/Users/SandySung/Desktop/Sandy/html/VERSAVE Eros Femme EDP.html",
+		"/Users/SandySung/Desktop/Sandy/html/Rihanna RiRi Crush.html",
+		"/Users/SandySung/Desktop/hfhtmlcss/chapter14/starbuzz/index.html",
+		"/Users/SandySung/Desktop/hfhtmlcss/chapter14/starbuzz/starbuzz.css",
+		"/Users/SandySung/Desktop/Sandy/sandydesign/sandydesign.css",
+		"/Users/SandySung/Desktop/sandydesign.html",
+		"/Users/SandySung/Desktop/hfhtmlcss/chapter12/starbuzz/blog-complete.html",
+		"/Users/SandySung/Desktop/hfhtmlcss/chapter13/journal/journal.html",
+		"/Users/SandySung/Desktop/hfhtmlcss/chapter14/starbuzz/form.html",
+		"/Users/SandySung/Desktop/hfhtmlcss/chapter14/contest/form.html",
+		"/Users/SandySung/Desktop/hfhtmlcss/chapter13/journal-complete/journal.html",
+		"/Users/SandySung/Desktop/hfhtmlcss/chapter13/journal/table.html",
+		"/Users/SandySung/Desktop/hfhtmlcss/chapter12/starbuzz/starbuzz.css",
+		"/Users/SandySung/Desktop/hfhtmlcss/chapter12/starbuzz/blog.html",
+		"/Users/SandySung/Desktop/hfhtmlcss/chapter11/starbuzz/index.html",
+		"/Users/SandySung/Desktop/hfhtmlcss/chapter11/starbuzz/starbuzz.css",
+		"/Users/SandySung/Desktop/hfhtmlcss/chapter11/tabledisplay/index.html",
+		"/Users/SandySung/Desktop/hfhtmlcss/chapter11/starbuzz-complete/index.html",
+		"/Users/SandySung/Desktop/hfhtmlcss/chapter11/lounge/lounge.html",
+		"/Users/SandySung/Desktop/hfhtmlcss/chapter11/lounge/lounge.css"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "mainStyle.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="圖層_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 674 53.7" style="enable-background:new 0 0 674 53.7;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{opacity:0.2;fill:#002368;enable-background:new    ;}
+	.st2{opacity:0.15;fill:#4ECDF9;enable-background:new    ;}
+	.st3{opacity:0.2;fill:#E1FEFF;enable-background:new    ;}
+	.st4{opacity:0.25;fill:url(#SVGID_2_);enable-background:new    ;}
+</style>
+<g>
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="337" y1="1416.5892" x2="337" y2="1368.4956" gradientTransform="matrix(1 0 0 1 0 -1361.9999)">
+		<stop  offset="0" style="stop-color:#002368"/>
+		<stop  offset="0.2052" style="stop-color:#124889"/>
+		<stop  offset="0.4095" style="stop-color:#2065A3"/>
+		<stop  offset="0.6114" style="stop-color:#2A7AB5"/>
+		<stop  offset="0.8096" style="stop-color:#3087C0"/>
+		<stop  offset="1" style="stop-color:#328BC4"/>
+	</linearGradient>
+	<path class="st0" d="M674,53.7V5c0-2.8-2.5-5-5.4-5H5.4C2.5,0,0,2.3,0,5v48.7H674z"/>
+	<path class="st1" d="M674,41.2c-54.3,14.5-483.5,9.2-502.5,8.2C11.1,40.7,2.8,10.7,4.2,0.1C1.9,0.6,0,2.6,0,5v48.7h674V41.2z"/>
+	<path class="st2" d="M674,53.7V5c0-2.8-2.5-5-5.4-5H51C143.9,0,464.9,4.4,595,53.7H674z"/>
+	<path class="st3" d="M668.6,0H347.8c306.1,1.8,316.6,41.4,325.8,53.7c0.2-0.4,0.3-20.5,0.4-20.8V5C674,2.3,671.5,0,668.6,0z"/>
+	<path class="st3" d="M0,5v48.7C34,26.9,117.4,0.1,269.7,0H5.4C2.5,0,0,2.3,0,5z"/>
+	
+		<radialGradient id="SVGID_2_" cx="1037.3248" cy="-568.809" r="14.0801" gradientTransform="matrix(27.1429 0 0 3.236 -28183.959 1870.1635)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+	</radialGradient>
+	<rect y="0.9" class="st4" width="412.2" height="51.8"/>
+</g>
+</svg>

@@ -1,0 +1,304 @@
+
+
+
+.login_body{  }  /*刪除*/
+.footer {
+    /*min-width: 1920px;*/
+    overflow-x: auto;
+    background-color: #e7e7e7;
+    padding: 40px 0px 30px 0px;
+}
+.main_content .content_block_left {
+    display: inline-block;
+    width: 18%;
+    padding-left: 1%;
+}
+
+.content_block_left .market_btn {
+    background: transparent url("../img/movemarketss01.svg") no-repeat;
+    background-size: cover;
+    width: 90%;
+    height: 43px;
+    margin-left: 0;
+    cursor: pointer;
+    position: absolute;
+    right: -35px;
+
+}
+
+
+.content_block_left  .market_btn_wrap:hover .market_btn{
+    background: transparent url("../img/movemarketss01.svg") no-repeat;
+    background-size: cover;
+    width: 90%;
+    height: 43px;
+    margin-left: 25%;
+    position: absolute;
+    right: -55px;
+
+}
+
+.content_block_left .active {
+    background: transparent url("../img/movemarketss01.svg") no-repeat;
+    background-size: cover;
+    width:90%;
+    height: 43px;
+    margin-left: 25%;
+    position: absolute;
+    right: -55px;
+}
+.game_category {
+    width: 100%;
+    font-size: 16px;
+    letter-spacing: 1px;
+    padding: 4px 0px 2px 3px;
+    color: white;
+    background: rgb(48, 96, 160); /* Old browsers */
+    background: -moz-linear-gradient(left, rgba(48, 96, 160, 0.9) 0%, rgba(255, 255, 255, 0) 95%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(left, rgba(48, 96, 160, 0.9) 0%, rgba(255, 255, 255, 0) 95%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to right, rgba(48, 96, 160, 0.9) 0%, rgba(255, 255, 255, 0) 95%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#3060a0', endColorstr='#ffffff', GradientType=1); /* IE6-9 */
+}
+
+.game_category span {
+    color: #ea5514;
+    font-weight: bold;
+}
+
+.game_name {
+    width: 100%;
+    font-size: 14px;
+    /*text-align: center;*/
+    padding: 5px 0px 5px 12px;
+    /*font-weight: bold;*/
+    /*color: #314984;*/
+    color: black;
+}
+
+.market_game {
+    width: 100%;
+    background: rgb(255, 255, 255); /* Old browsers */
+    background: -moz-linear-gradient(top, rgba(255, 255, 255, 0.9) 0%, rgba(242, 242, 242, 0.9) 60%, rgba(216, 216, 216, 0.9) 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, rgba(255, 255, 255, 0.9) 0%, rgba(242, 242, 242, 0.9) 60%, rgba(216, 216, 216, 0.9) 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, rgba(255, 255, 255, 0.9) 0%, rgba(242, 242, 242, 0.9) 60%, rgba(216, 216, 216, 0.9) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#d8d8d8', GradientType=0); /* IE6-9 */
+    margin-bottom: 15px;
+    border: solid 1px rgba(135, 148, 148, 0.3);
+    border-radius: 8px 0px 0px 8px;
+    box-shadow: -3px 3px 5px 2px rgba(135, 148, 148, 0.5), -2px -1px 5px 2px rgba(135, 148, 148, 0.5);
+}
+.market_game:first-child{
+    margin-top: 15px;
+}
+.game_name_wrap {
+    display: inline-block;
+    width: 100%;
+    margin-left: -4px;
+    vertical-align: top;
+    padding-top: 5px;
+    padding-left: 3px;
+}
+.market_table_content .content_title td {
+    font-size: 16px;
+    font-weight: bold;
+    color: #224f97;
+    letter-spacing: 1px;
+    padding: 7px 0px;
+
+}
+.main_content .content_block_right {
+    display: inline-block;
+    width: 53%;
+    vertical-align: top;
+    padding-top: 50px;
+    padding-left: 2%;
+}
+.cell_39 {
+    width: 11%;
+    padding: 15px 5px 0px 20px;
+}
+.cell_46 {
+    width: 11%;
+    padding: 17px 5px 0px 15px;
+}
+.cell_41 {
+    width: 60%;
+    text-align: right;
+    padding-right: 20px;
+}
+.head_amount {
+    color: white;
+    font-size: 16px;
+    font-weight: 300;
+    letter-spacing: 1px;
+    vertical-align: middle;
+    padding-top: 4px;
+}
+.head_title {
+    font-size: 20px;
+    color: white;
+    letter-spacing: 4px;
+    padding-top: 2px;
+}
+.cell_43 {
+    width: 22%;
+
+}
+
+.cell_44 {
+    width: 22%;
+    color:red;
+}
+
+.table_left {
+    padding-right: 10px;
+}
+
+.table_right {
+    padding-left: 10px;
+}
+
+.cell_47 {
+    width: 11%;
+    padding: 15px 5px 0px 15px;
+}
+
+.cell_48 {
+    width: 11%;
+    padding: 16px 5px 0px 15px;
+
+}
+.content_block_left .market_btn .game_list_tab {
+    color: white;
+    font-size: 26px;
+    font-family: IrisUPC,微軟正黑體, SansSerif, Arial;
+    letter-spacing: 3px;
+    line-height: 30px;
+    padding-top: 8px;
+    padding-left: 8px;
+}
+.content_block_left .market_btn .game_list_tab span {
+    font-size: 16px;
+    letter-spacing: 12px;
+
+}
+.cover {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1000; /* Sit on top */
+    padding-top: 15%; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(255, 255, 255); /* Fallback color */
+    background-color: rgba(255, 255, 255, 0.8); /* Black w/ opacity */
+}
+
+.cover_order {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1000; /* Sit on top */
+    padding-top: 5%; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(255, 255, 255); /* Fallback color */
+    background-color: rgba(255, 255, 255, 0.8); /* Black w/ opacity */
+}
+.cover_order01 {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1000; /* Sit on top */
+    padding-top: 5%; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(255, 255, 255); /* Fallback color */
+    background-color: rgba(255, 255, 255, 0.8); /* Black w/ opacity */
+}
+
+.cover_order03 {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1000; /* Sit on top */
+    padding-top: 5%; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(255, 255, 255); /* Fallback color */
+    background-color: rgba(255, 255, 255, 0.8); /* Black w/ opacity */
+}
+
+.cover_game_record {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1000; /* Sit on top */
+    padding-top: 5%; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(255, 255, 255); /* Fallback color */
+    background-color: rgba(255, 255, 255, 0.8); /* Black w/ opacity */
+}
+.modal_order03 {
+    position: relative;
+    background-color: #ffffff;
+    margin: auto;
+    padding: 0;
+    /*border: 1px solid #c3c3c3;*/
+    width: 540px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    /*-webkit-animation-name: animatetop;*/
+    /*-webkit-animation-duration: 0.4s;*/
+    /*animation-name: animatetop;*/
+    /*animation-duration: 0.4s;*/
+    height: 715px;
+    animation: animatezoom 0.4s;
+    border-radius: 5px 5px 10px 10px;
+}
+
+.modal_game_record {
+    position: relative;
+    background-color: #ffffff;
+    margin: auto;
+    padding: 0;
+    /*border: 1px solid #c3c3c3;*/
+    width: 1000px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    /*-webkit-animation-name: animatetop;*/
+    /*-webkit-animation-duration: 0.4s;*/
+    /*animation-name: animatetop;*/
+    /*animation-duration: 0.4s;*/
+    height: 700px;
+    animation: animatezoom 0.4s;
+    border-radius: 20px;
+}
+.game_record_content {
+    width: 100%;
+    height: 570px;
+    overflow-y: auto;
+}
+
+.num_block {
+    width: 18%;
+    text-align: center;
+    padding-top: 5px;
+    padding-left: 7px;
+}
+
+.content_block_left .market_btn .game_num {
+    color: #999999;
+    font-size: 18px;
+    font-family: Jersery;
+    letter-spacing: 1px;
+}
